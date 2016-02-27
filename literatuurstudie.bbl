@@ -1,0 +1,39 @@
+\begin{thebibliography}{1}
+
+\bibitem{R23}
+D.~Bauer, W.~Heidemann, H.~Müller-Steinhagen, and H.~J.~G. Diersch.
+\newblock Thermal resistance and capacity models for borehole heat exchangers.
+\newblock {\em International Journal of Energy Research}, 35(4):312--320, 2011.
+
+\bibitem{R10}
+S.~E. Dehkordi, R.~A. Schincariol, and B.~Olofsson.
+\newblock Impact of groundwater flow and energy load on multiple borehole heat
+  exchangers.
+\newblock {\em Groundwater}, 53(4):558--571, 2015.
+
+\bibitem{R2}
+A.~Moradi, K.~M. Smits, J.~Massey, A.~Cihan, and J.~McCartney.
+\newblock Impact of coupled heat transfer and water flow on soil borehole
+  thermal energy storage (sbtes) systems: Experimental and modeling
+  investigation.
+\newblock {\em Geothermics}, 57:56--72, 2015.
+
+\bibitem{R25}
+D.~Picard and L.~Helsen.
+\newblock Advanced hybrid model for borefield heat exchanger performance
+  evaluation, an implementation in modelica.
+\newblock 2014.
+
+\bibitem{R7}
+D.~Picard, L.~Helsen, and Ashrae.
+\newblock A new hybrid model for borefield heat exchangers performance
+  evaluation.
+\newblock {\em Ashrae Transactions 2014, Vol 120, Pt 2}, 120(2), 2014.
+
+\bibitem{R28}
+B.~van~der Heijde, E.~Carrascal~Lecumberri, and L.~Helsen.
+\newblock Experimental method for the state of charge determination of a
+  thermally activated building system (tabs).
+\newblock 2015.
+
+\end{thebibliography}
