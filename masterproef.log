@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.2.23)  21 FEB 2016 12:31
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.2.23)  18 APR 2016 15:15
 entering extended mode
 **masterproef.tex
 ("D:\Documenten\KU Leuven\Thesis\Tekst latex\masterproef.tex"
@@ -800,6 +800,10 @@ Package microtype Info: Loading generic settings for font family
 
 
 ]
+
+LaTeX Warning: Citation `h2g2' on page v undefined on input line 84.
+
+
 Overfull \hbox (0.86812pt too wide) in paragraph at lines 84--84
 []|\T1/lmr/m/n/10.95 (-20) ``The Answer to the Ultimate Question of Life, the U
 niverse, and Everything''
@@ -809,110 +813,1421 @@ niverse, and Everything''
 
 ] [6
 
-] ("D:\Documenten\KU Leuven\Thesis\Tekst latex\inleiding.tex" [1
+] ("D:\Documenten\KU Leuven\Thesis\Tekst latex\inleiding.tex"
+
+LaTeX Warning: Citation `wiki' on page 1 undefined on input line 7.
+
+[1
 
 
 ])
 Package microtype Info: Character `029' is missing
 (microtype)             in font `T1/lmr/m/sc/10.95'.
 (microtype)             Ignoring protrusion settings for this character.
+ [2] ("D:\Documenten\KU Leuven\Thesis\Tekst latex\hfdst-1.tex" [3
 
-[2] ("D:\Documenten\KU Leuven\Thesis\Tekst latex\hfdst-1.tex" [3
-
-
-
-]) [4]
-("D:\Documenten\KU Leuven\Thesis\Tekst latex\hfdst-2.tex"
-<logokul.pdf, id=234, 159.33528pt x 56.90298pt>
-File: logokul.pdf Graphic file (type pdf)
- <use logokul.pdf>
-Package pdftex.def Info: logokul.pdf used on input line 22.
-(pdftex.def)             Requested size: 159.33487pt x 56.90283pt.
- [5
-
-
-
- <C:/Users/Ottelien/AppData/Local/MiKTeX/2.9/tex/latex/kulemt/logokul.pdf>] [6]
- [7])
-[8] ("D:\Documenten\KU Leuven\Thesis\Tekst latex\hfdst-n.tex") [9
-
-
-
-]
-("D:\Documenten\KU Leuven\Thesis\Tekst latex\besluit.tex" [10
-
-
-
-]
-Underfull \vbox (badness 1308) has occurred while \output is active []
-
- [11])
-[12] [13
-
-
-] [14] ("D:\Documenten\KU Leuven\Thesis\Tekst latex\app-A.tex" [15
 
 
 ])
-[16] ("D:\Documenten\KU Leuven\Thesis\Tekst latex\app-n.tex" [17
+[4] ("D:\Documenten\KU Leuven\Thesis\Tekst latex\literatuurstudie.tex"
+
+! LaTeX Error: Can be used only in preamble.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 \documentclass
+                  [a4paper,oneside,11pt]{report}
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
 
 
+! LaTeX Error: Can be used only in preamble.
 
-]) [18]
-("D:\Documenten\KU Leuven\Thesis\Tekst latex\masterproef.bbl"
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4 \usepackage
+               [a4paper,top=2cm,bottom=2cm,left=3cm,right=2cm]{geometry}		% ...
+
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: Can be used only in preamble.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5 \usepackage
+               {parskip}					% andere regels voor nieuwe paragraaf: witregel...
+
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: Can be used only in preamble.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.7 \usepackage
+               [latin1]{inputenc}					% invoer van speciale tekens (bvb. Uml...
+
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: Can be used only in preamble.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 \usepackage
+               {lmodern}						% betere weergave van speciale tekens (bvb. Um...
+
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: Can be used only in preamble.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.9 \usepackage
+               {dsfont}
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: Can be used only in preamble.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.10 \usepackage
+                {amsfonts,amsthm, tabularx}			% wiskundige symbolen and tabl...
+
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: Can be used only in preamble.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.12 \usepackage
+                {enumerate}
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: Can be used only in preamble.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.14 \usepackage
+                {graphicx,subcaption}					% figuren
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: Can be used only in preamble.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.15 \usepackage
+                {float}								% plaatsen van figuren en tabellen
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: Can be used only in preamble.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.16 \usepackage
+                [font=small,labelfont=bf]{caption}
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: Can be used only in preamble.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.17 \usepackage
+                [format=plain,indent=1cm]{caption}
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: Can be used only in preamble.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 \usepackage
+                {eurosym}
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: Can be used only in preamble.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.19 \usepackage
+                [squaren,Gray]{SIunits}
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: Can be used only in preamble.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.20 \usepackage
+                {amsmath,amsfonts,amsthm,mathrsfs,MnSymbol}	% wiskundige sym...
+
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: Can be used only in preamble.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.21 \usepackage
+                {pifont}
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: Can be used only in preamble.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 \usepackage
+                {color}				% Load the color package: \color{declared-color}{...
+
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: Can be used only in preamble.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.24 \usepackage
+                [dutch]{babel}		% spellingcorrectie Nederlands
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: Can be used only in preamble.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.25 \usepackage
+                {titling}
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: Can be used only in preamble.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.26 \usepackage
+                {epstopdf}
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: Can be used only in preamble.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.27 \usepackage
+                {stackengine}
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: Can be used only in preamble.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.28 \usepackage
+                {graphicx}
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: Can be used only in preamble.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.29 \usepackage
+                {hyperref}
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Overfull \hbox (58.40063pt too wide) in paragraph at lines 14--30
+[]\T1/lmr/m/n/10.95 (-20) graphicx,subcaption float [font=small,labelfont=bf]ca
+ption [for-mat=plain,indent=1cm]caption
+ []
+
+
+Overfull \hbox (1.99149pt too wide) in paragraph at lines 14--30
+\T1/lmr/m/n/10.95 (-20) eu-ro-sym [squa-ren,Gray]SIunits ams-math,amsfonts,amst
+hm,mathrsfs,MnSymbol pifont
+ []
+
+! Undefined control sequence.
+l.33 \captionsetup
+                  [table]{name=Tabel}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Class hyperref Warning: Unexpected value for option `hidelinks'
+(hyperref)              is ignored on input line 40.
+
+! Undefined control sequence.
+l.43 \DeclareMathOperator
+                         *{\argmin}{\arg\!\min}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.43 \DeclareMathOperator*{\argmin
+                                  }{\arg\!\min}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.43 \DeclareMathOperator*{\argmin}{\arg
+                                        \!\min}
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Extra }, or forgotten $.
+l.43 \DeclareMathOperator*{\argmin}{\arg\!\min}
+                                               
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.44 
+     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Undefined control sequence.
+l.45 \numberwithin
+                  {figure}{section}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.46 \numberwithin
+                  {table}{section}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.47 \numberwithin
+                  {equation}{section}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Can be used only in preamble.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.54 \begin{document}
+                     
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.56 \newpage
+              [1
+
+
+]
+
+LaTeX Warning: Citation `R28' on page 2 undefined on input line 61.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 61--62
+
+ []
+
+! Undefined control sequence.
+l.63 SoC=\dfrac
+               {E(t)}{E_{max}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+LaTeX Warning: Reference `fig:def_1' on page 2 undefined on input line 66.
+
+<./Figures/def_fig1.jpg, id=230, 357.9774pt x 418.6842pt>
+File: ./Figures/def_fig1.jpg Graphic file (type jpg)
+
+<use ./Figures/def_fig1.jpg>
+Package pdftex.def Info: ./Figures/def_fig1.jpg used on input line 70.
+(pdftex.def)             Requested size: 159.19757pt x 186.1957pt.
+
+
+LaTeX Warning: Reference `fig:def_2' on page 2 undefined on input line 76.
+
+
+LaTeX Warning: Reference `fig:def_3' on page 2 undefined on input line 76.
+
+
+LaTeX Warning: Citation `R23' on page 2 undefined on input line 76.
+
+
+LaTeX Warning: Citation `R28' on page 2 undefined on input line 76.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 76--77
+
+ []
+
+! Undefined control sequence.
+l.78 SoC_n=\dfrac
+                 {\sum\limits_{i=1}^k m_{i,n}.c_{p_{i,n}}.(T_{i,n}(t)-T_{n,r...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 79--82
+
+ []
+
+! Undefined control sequence.
+l.83 SoC_{tot}=\dfrac
+                     {\sum\limits_{n=1}^N \sum\limits_{i=1}^k m_{i,n}.c_{p_{...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+<./Figures/def_fig2.jpg, id=231, 622.4856pt x 282.3348pt>
+File: ./Figures/def_fig2.jpg Graphic file (type jpg)
+
+<use ./Figures/def_fig2.jpg>
+Package pdftex.def Info: ./Figures/def_fig2.jpg used on input line 88.
+(pdftex.def)             Requested size: 318.40121pt x 144.41533pt.
+
+<./Figures/def_fig3.jpg, id=232, 653.8026pt x 312.6882pt>
+File: ./Figures/def_fig3.jpg Graphic file (type jpg)
+
+<use ./Figures/def_fig3.jpg>
+Package pdftex.def Info: ./Figures/def_fig3.jpg used on input line 95.
+(pdftex.def)             Requested size: 318.40121pt x 152.28339pt.
+
+
+LaTeX Warning: Citation `R7' on page 2 undefined on input line 101.
+
+
+LaTeX Warning: Citation `R25' on page 2 undefined on input line 101.
+
+! Undefined control sequence.
+l.105 ... in Belgi\"e op een minimum van 0 \degree
+                                                   C en een maximum van 25 \...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.105 ...0 \degree C en een maximum van 25 \degree
+                                                   C \cite{}. Bij deze keuze...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.107 \begin{equation}
+                       \label{def_eq4} [2 <D:/Documenten/KU Leuven/Thesis/Tekst
+ latex/Figures/def_fig1.jpg>]pdfTeX warning (ext4): destination with the same i
+dentifier (name{page.3}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.116 \newpage
+               [3 <D:/Documenten/KU Leuven/Thesis/Tekst latex/Figures/def_fig2.
+jpg> <D:/Documenten/KU Leuven/Thesis/Tekst latex/Figures/def_fig3.jpg>]
+! Undefined control sequence.
+l.147 \alpha=\dfrac
+                   {k}{\rho.c_p}=\dfrac{k}{c}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.147 \alpha=\dfrac{k}{\rho.c_p}=\dfrac
+                                       {k}{c}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+LaTeX Warning: Reference `fig:invlf_1' on page 4 undefined on input line 150.
+
+
+LaTeX Warning: Reference `fig:invlf_2' on page 4 undefined on input line 150.
+
+
+LaTeX Warning: Reference `fig:invlf_3' on page 4 undefined on input line 150.
+
+
+LaTeX Warning: Reference `' on page 4 undefined on input line 150.
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.4}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.151 
+       [4] <./Figures/invlf_fig1.jpg, id=258, 724.36137pt x 411.19138pt>
+File: ./Figures/invlf_fig1.jpg Graphic file (type jpg)
+
+<use ./Figures/invlf_fig1.jpg>
+Package pdftex.def Info: ./Figures/invlf_fig1.jpg used on input line 156.
+(pdftex.def)             Requested size: 278.59879pt x 158.14917pt.
+
+<./Figures/invlf_fig2.jpg, id=259, 728.51483pt x 407.63528pt>
+File: ./Figures/invlf_fig2.jpg Graphic file (type jpg)
+
+<use ./Figures/invlf_fig2.jpg>
+Package pdftex.def Info: ./Figures/invlf_fig2.jpg used on input line 163.
+(pdftex.def)             Requested size: 278.59879pt x 155.88577pt.
+
+<./Figures/invlf_fig3.jpg, id=260, 729.42279pt x 419.33408pt>
+File: ./Figures/invlf_fig3.jpg Graphic file (type jpg)
+
+<use ./Figures/invlf_fig3.jpg>
+Package pdftex.def Info: ./Figures/invlf_fig3.jpg used on input line 170.
+(pdftex.def)             Requested size: 278.59879pt x 160.16121pt.
+
+
+LaTeX Warning: Reference `fig:invlf_4' on page 5 undefined on input line 177.
+
+! Undefined control sequence.
+l.177 ...ratuur nagenoeg constant (10 - 12 \degree
+                                                   C). Hierna stijgt de temp...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.177 ...ierna stijgt de temperatuur met 3 \degree
+                                                   C per 100 m \cite{}. Indi...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+[5 <D:/Documenten/KU Leuven/Thesis/Tekst latex/Figures/invlf_fig1.jpg> <D:/Docu
+menten/KU Leuven/Thesis/Tekst latex/Figures/invlf_fig2.jpg>]
+<./Figures/invlf_fig4.jpg, id=267, 357.29747pt x 349.86784pt>
+File: ./Figures/invlf_fig4.jpg Graphic file (type jpg)
+
+<use ./Figures/invlf_fig4.jpg>
+Package pdftex.def Info: ./Figures/invlf_fig4.jpg used on input line 181.
+(pdftex.def)             Requested size: 179.09879pt x 175.38193pt.
+
+! Undefined control sequence.
+l.190 Pe=\dfrac
+               {r_b.v}{\alpha}=\dfrac{r_b.\Phi}{\alpha.\varphi}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.190 Pe=\dfrac{r_b.v}{\alpha}=\dfrac
+                                     {r_b.\Phi}{\alpha.\varphi}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+[6 <D:/Documenten/KU Leuven/Thesis/Tekst latex/Figures/invlf_fig3.jpg> <D:/Docu
+menten/KU Leuven/Thesis/Tekst latex/Figures/invlf_fig4.jpg>]
+
+LaTeX Warning: Citation `R10' on page 7 undefined on input line 196.
+
+
+LaTeX Warning: Citation `R10' on page 7 undefined on input line 196.
+
+
+LaTeX Warning: Reference `fig:invlf_7' on page 7 undefined on input line 197.
+
+
+LaTeX Warning: Citation `R10' on page 7 undefined on input line 197.
+
+
+LaTeX Warning: Reference `fig_invlf_8' on page 7 undefined on input line 198.
+
+! Undefined control sequence.
+l.198 ...d gemiddeld een temperatuur van 4 \degree
+                                                   C. Bij de lijn lay-out is...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.198 ...temperatuur 10 m buiten de lijn 8 \degree
+                                                   C. Dit is een significant...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+LaTeX Warning: Citation `R10' on page 7 undefined on input line 198.
+
+
+! LaTeX Error: Environment subfigure undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.202 \begin{subfigure}
+                       {0.3\textwidth}
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Missing number, treated as zero.
+<to be read again> 
+                   }
+l.202 \begin{subfigure}{0.3\textwidth}
+                                      
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   }
+l.202 \begin{subfigure}{0.3\textwidth}
+                                      
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+<./Figures/invlf_fig5a.jpg, id=275, 88.6512pt x 178.71419pt>
+File: ./Figures/invlf_fig5a.jpg Graphic file (type jpg)
+
+<use ./Figures/invlf_fig5a.jpg>
+Package pdftex.def Info: ./Figures/invlf_fig5a.jpg used on input line 204.
+(pdftex.def)             Requested size: 187.5825pt x 378.09879pt.
+
+
+! LaTeX Error: \begin{figure} on input line 201 ended by \end{subfigure}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.206 \end{subfigure}
+                     %
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: Environment subfigure undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.207 \begin{subfigure}
+                       {0.3\textwidth}
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Missing number, treated as zero.
+<to be read again> 
+                   }
+l.207 \begin{subfigure}{0.3\textwidth}
+                                      
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   }
+l.207 \begin{subfigure}{0.3\textwidth}
+                                      
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+<./Figures/invlf_fig5b.jpg, id=276, 191.30295pt x 182.66669pt>
+File: ./Figures/invlf_fig5b.jpg Graphic file (type jpg)
+
+<use ./Figures/invlf_fig5b.jpg>
+Package pdftex.def Info: ./Figures/invlf_fig5b.jpg used on input line 209.
+(pdftex.def)             Requested size: 395.99457pt x 378.09879pt.
+
+
+! LaTeX Error: \begin{figure} on input line 201 ended by \end{subfigure}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.211 \end{subfigure}
+                     
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+LaTeX Warning: Float too large for page by 245.12648pt on input line 215.
+
+
+! LaTeX Error: Environment subfigure undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.218 \begin{subfigure}
+                       {0.75\textwidth}
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Missing number, treated as zero.
+<to be read again> 
+                   }
+l.218 \begin{subfigure}{0.75\textwidth}
+                                       
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   }
+l.218 \begin{subfigure}{0.75\textwidth}
+                                       
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+<./Figures/invlf_fig6a.jpg, id=277, 794.97pt x 365.11406pt>
+File: ./Figures/invlf_fig6a.jpg Graphic file (type jpg)
+
+<use ./Figures/invlf_fig6a.jpg>
+Package pdftex.def Info: ./Figures/invlf_fig6a.jpg used on input line 220.
+(pdftex.def)             Requested size: 298.5pt x 137.0957pt.
+
+
+! LaTeX Error: \begin{figure} on input line 217 ended by \end{subfigure}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.222 \end{subfigure}
+                     
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: Environment subfigure undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.223 \begin{subfigure}
+                       {0.75\textwidth}
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Missing number, treated as zero.
+<to be read again> 
+                   }
+l.223 \begin{subfigure}{0.75\textwidth}
+                                       
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   }
+l.223 \begin{subfigure}{0.75\textwidth}
+                                       
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+File: ./Figures/invlf_fig6a.jpg Graphic file (type jpg)
+<use ./Figures/invlf_fig6a.jpg>
+Package pdftex.def Info: ./Figures/invlf_fig6a.jpg used on input line 225.
+(pdftex.def)             Requested size: 298.5pt x 137.0957pt.
+
+
+! LaTeX Error: \begin{figure} on input line 217 ended by \end{subfigure}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.227 \end{subfigure}
+                     
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: Environment subfigure undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.234 \begin{subfigure}
+                       {0.4\textwidth}
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Missing number, treated as zero.
+<to be read again> 
+                   }
+l.234 \begin{subfigure}{0.4\textwidth}
+                                      
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   }
+l.234 \begin{subfigure}{0.4\textwidth}
+                                      
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+<./Figures/invlf_fig7a.jpg, id=278, 463.7325pt x 464.4853pt>
+File: ./Figures/invlf_fig7a.jpg Graphic file (type jpg)
+
+<use ./Figures/invlf_fig7a.jpg>
+Package pdftex.def Info: ./Figures/invlf_fig7a.jpg used on input line 236.
+(pdftex.def)             Requested size: 378.09879pt x 378.71873pt.
+
+
+! LaTeX Error: \begin{figure} on input line 233 ended by \end{subfigure}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.238 \end{subfigure}
+                     %
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: Environment subfigure undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.239 \begin{subfigure}
+                       {0.4\textwidth}
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Missing number, treated as zero.
+<to be read again> 
+                   }
+l.239 \begin{subfigure}{0.4\textwidth}
+                                      
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   }
+l.239 \begin{subfigure}{0.4\textwidth}
+                                      
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+<./Figures/invlf_fig7b.jpg, id=279, 439.6425pt x 439.6425pt>
+File: ./Figures/invlf_fig7b.jpg Graphic file (type jpg)
+
+<use ./Figures/invlf_fig7b.jpg>
+Package pdftex.def Info: ./Figures/invlf_fig7b.jpg used on input line 241.
+(pdftex.def)             Requested size: 378.09879pt x 378.112pt.
+
+
+! LaTeX Error: \begin{figure} on input line 233 ended by \end{subfigure}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.243 \end{subfigure}
+                     
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: Environment subfigure undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.244 \begin{subfigure}
+                       {0.4\textwidth}
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Missing number, treated as zero.
+<to be read again> 
+                   }
+l.244 \begin{subfigure}{0.4\textwidth}
+                                      
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   }
+l.244 \begin{subfigure}{0.4\textwidth}
+                                      
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+<./Figures/invlf_fig7c.jpg, id=280, 463.7325pt x 465.23813pt>
+File: ./Figures/invlf_fig7c.jpg Graphic file (type jpg)
+
+<use ./Figures/invlf_fig7c.jpg>
+Package pdftex.def Info: ./Figures/invlf_fig7c.jpg used on input line 246.
+(pdftex.def)             Requested size: 378.09879pt x 379.33255pt.
+
+
+! LaTeX Error: \begin{figure} on input line 233 ended by \end{subfigure}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.248 \end{subfigure}
+                     %
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: Environment subfigure undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.249 \begin{subfigure}
+                       {0.4\textwidth}
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Missing number, treated as zero.
+<to be read again> 
+                   }
+l.249 \begin{subfigure}{0.4\textwidth}
+                                      
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   }
+l.249 \begin{subfigure}{0.4\textwidth}
+                                      
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+<./Figures/invlf_fig7d.jpg, id=281, 439.6425pt x 441.14813pt>
+File: ./Figures/invlf_fig7d.jpg Graphic file (type jpg)
+
+<use ./Figures/invlf_fig7d.jpg>
+Package pdftex.def Info: ./Figures/invlf_fig7d.jpg used on input line 251.
+(pdftex.def)             Requested size: 378.09879pt x 379.40692pt.
+
+
+! LaTeX Error: \begin{figure} on input line 233 ended by \end{subfigure}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.253 \end{subfigure}
+                     %
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+LaTeX Warning: Float too large for page by 1067.28654pt on input line 257.
+
+
+! LaTeX Error: Environment subfigure undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.260 \begin{subfigure}
+                       {0.4\textwidth}
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Missing number, treated as zero.
+<to be read again> 
+                   }
+l.260 \begin{subfigure}{0.4\textwidth}
+                                      
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   }
+l.260 \begin{subfigure}{0.4\textwidth}
+                                      
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+<./Figures/invlf_fig8a.jpg, id=282, 463.7325pt x 465.23813pt>
+File: ./Figures/invlf_fig8a.jpg Graphic file (type jpg)
+
+<use ./Figures/invlf_fig8a.jpg>
+Package pdftex.def Info: ./Figures/invlf_fig8a.jpg used on input line 262.
+(pdftex.def)             Requested size: 378.09879pt x 379.33255pt.
+
+
+! LaTeX Error: \begin{figure} on input line 259 ended by \end{subfigure}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.264 \end{subfigure}
+                     %
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: Environment subfigure undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.265 \begin{subfigure}
+                       {0.4\textwidth}
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Missing number, treated as zero.
+<to be read again> 
+                   }
+l.265 \begin{subfigure}{0.4\textwidth}
+                                      
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   }
+l.265 \begin{subfigure}{0.4\textwidth}
+                                      
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+File: ./Figures/invlf_fig8a.jpg Graphic file (type jpg)
+<use ./Figures/invlf_fig8a.jpg>
+Package pdftex.def Info: ./Figures/invlf_fig8a.jpg used on input line 267.
+(pdftex.def)             Requested size: 378.09879pt x 379.33255pt.
+
+
+! LaTeX Error: \begin{figure} on input line 259 ended by \end{subfigure}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.269 \end{subfigure}
+                     %
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+LaTeX Warning: Float too large for page by 263.32315pt on input line 273.
+
+! Undefined control sequence.
+l.279 S=\dfrac
+              {V_{water}}{V_{water}+v_{lucht}+V_{materiaal}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+LaTeX Warning: Citation `R2' on page 7 undefined on input line 281.
+
+("D:\Documenten\KU Leuven\Thesis\Tekst latex\masterproef.bbl" [7] [8 <D:/Docume
+nten/KU Leuven/Thesis/Tekst latex/Figures/invlf_fig5a.jpg> <D:/Documenten/KU Le
+uven/Thesis/Tekst latex/Figures/invlf_fig5b.jpg>] [9 <D:/Documenten/KU Leuven/T
+hesis/Tekst latex/Figures/invlf_fig6a.jpg>] [10 <D:/Documenten/KU Leuven/Thesis
+/Tekst latex/Figures/invlf_fig7a.jpg> <D:/Documenten/KU Leuven/Thesis/Tekst lat
+ex/Figures/invlf_fig7b.jpg> <D:/Documenten/KU Leuven/Thesis/Tekst latex/Figures
+/invlf_fig7c.jpg> <D:/Documenten/KU Leuven/Thesis/Tekst latex/Figures/invlf_fig
+7d.jpg>] [11 <D:/Documenten/KU Leuven/Thesis/Tekst latex/Figures/invlf_fig8a.jp
+g>] [12
+
+]
 bibitemlist
-) [19
 
+LaTeX Warning: Empty `thebibliography' environment on input line 3.
 
+) [13] [14
 
-] [20
+] [15
 
 ]
 \tf@toc=\write5
 \tf@lof=\write6
 \tf@lot=\write7
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 110.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 110.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 291.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 291.
  ("D:\Documenten\KU Leuven\Thesis\Tekst latex\masterproef.aux"
 ("D:\Documenten\KU Leuven\Thesis\Tekst latex\inleiding.aux")
 ("D:\Documenten\KU Leuven\Thesis\Tekst latex\hfdst-1.aux")
-("D:\Documenten\KU Leuven\Thesis\Tekst latex\hfdst-2.aux")
-("D:\Documenten\KU Leuven\Thesis\Tekst latex\hfdst-n.aux")
-("D:\Documenten\KU Leuven\Thesis\Tekst latex\besluit.aux")
-("D:\Documenten\KU Leuven\Thesis\Tekst latex\app-A.aux")
-("D:\Documenten\KU Leuven\Thesis\Tekst latex\app-n.aux"))
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 110.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 110.
-Package rerunfilecheck Info: File `masterproef.out' has not changed.
-(rerunfilecheck)             Checksum: C226F0BA77E984C562687FFDFE2BD030;1813.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 110.
- ) 
+("D:\Documenten\KU Leuven\Thesis\Tekst latex\literatuurstudie.aux")
+Runaway argument?
+{\contentsli 
+! File ended while scanning use of \@writefile.
+<inserted text> 
+                \par 
+l.64 \@input{literatuurstudie.aux}
+                                  
+I suspect you have forgotten a `}', causing me
+to read past where you wanted me to stop.
+I'll try to recover; but if the error is serious,
+you'd better type `E' or `X' now and fix your file.
+
+)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 291.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 291.
+
+
+Package rerunfilecheck Warning: File `masterproef.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `masterproef.out':
+(rerunfilecheck)             Before: C226F0BA77E984C562687FFDFE2BD030;1813
+(rerunfilecheck)             After:  095192D30E94E2B3F89E2E2D1C201ADA;868.
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 291.
+ ) )
+(\end occurred inside a group at level 2)
+
+### semi simple group (level 2) entered at line 54 (\begingroup)
+### simple group (level 1) entered at line 43 ({)
+### bottom level
+(\end occurred when \iftrue on line 92 was incomplete)
+(\end occurred when \ifnum on line 92 was incomplete) 
 Here is how much of TeX's memory you used:
- 11442 strings out of 493921
- 173187 string characters out of 3144867
- 429242 words of memory out of 3000000
- 14358 multiletter control sequences out of 15000+200000
- 73613 words of font info for 98 fonts, out of 3000000 for 9000
+ 11518 strings out of 493921
+ 174361 string characters out of 3144867
+ 431145 words of memory out of 3000000
+ 14426 multiletter control sequences out of 15000+200000
+ 73104 words of font info for 92 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 41i,12n,35p,298b,426s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Program Files (x86)/MiKTeX 2.9 02/fonts/enc/dvips/lm/lm-ec.enc}{C:/Progra
-m Files (x86)/MiKTeX 2.9 02/fonts/enc/dvips/lm/lm-mathit.enc}{C:/Program Files 
-(x86)/MiKTeX 2.9 02/fonts/enc/dvips/lm/lm-mathsy.enc}{C:/Program Files (x86)/Mi
-KTeX 2.9 02/fonts/enc/dvips/fontname/8r.enc}<C:/Program Files (x86)/MiKTeX 2.9 
-02/fonts/type1/public/lm/lmbx10.pfb><C:/Program Files (x86)/MiKTeX 2.9 02/fonts
-/type1/public/lm/lmbx12.pfb><C:/Program Files (x86)/MiKTeX 2.9 02/fonts/type1/p
-ublic/lm/lmcsc10.pfb><C:/Program Files (x86)/MiKTeX 2.9 02/fonts/type1/public/l
-m/lmmi10.pfb><C:/Program Files (x86)/MiKTeX 2.9 02/fonts/type1/public/lm/lmr10.
-pfb><C:/Program Files (x86)/MiKTeX 2.9 02/fonts/type1/public/lm/lmr12.pfb><C:/P
-rogram Files (x86)/MiKTeX 2.9 02/fonts/type1/public/lm/lmr8.pfb><C:/Program Fil
-es (x86)/MiKTeX 2.9 02/fonts/type1/public/lm/lmri10.pfb><C:/Program Files (x86)
-/MiKTeX 2.9 02/fonts/type1/public/lm/lmsy10.pfb><C:/Program Files (x86)/MiKTeX 
-2.9 02/fonts/type1/public/lm/lmtt10.pfb><C:/Program Files (x86)/MiKTeX 2.9 02/f
-onts/type1/urw/helvetic/uhvb8a.pfb><C:/Program Files (x86)/MiKTeX 2.9 02/fonts/
-type1/urw/helvetic/uhvr8a.pfb>
-Output written on masterproef.pdf (28 pages, 306889 bytes).
+ 43i,12n,35p,691b,539s stack positions out of 5000i,500n,10000p,200000b,50000s
+pdfTeX warning (dest): nam
+e{table.3.2} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{table.3.1} has been referenced but does not exist, 
+replaced by a fixed one
+
+pdfTeX warning (dest): name{figure.3.1} has been referenced but does not exist,
+ replaced by a fixed one
+
+pdfTeX warning (dest): name{section.B.2} has been referenced but does not exist
+, replaced by a fixed one
+
+pdfTeX warning (dest): name{section.B.1} has been referenced but does not exist
+, replaced by a fixed one
+
+pdfTeX warning (dest): name{appendix.B} has been referenced but does not exist,
+ replaced by a fixed one
+
+pdfTeX warning (dest): name{section.A.2} has been referenced but does not exist
+, replaced by a fixed one
+
+pdfTeX warning (dest): name{section.A.1} has been referenced but does not exist
+, replaced by a fixed one
+
+pdfTeX warning (dest): name{appendix.A} has been referenced but does not exist,
+ replaced by a fixed one
+
+pdfTeX warning (dest): name{chapter.5} has been referenced but does not exist, 
+replaced by a fixed one
+
+pdfTeX warning (dest): name{section.4.3} has been referenced but does not exist
+, replaced by a fixed one
+
+pdfTeX warning (dest): name{section.4.2} has been referenced but does not exist
+, replaced by a fixed one
+
+pdfTeX warning (dest): name{section.4.1} has been referenced but does not exist
+, replaced by a fixed one
+
+pdfTeX warning (dest): name{chapter.4} has been referenced but does not exist, 
+replaced by a fixed one
+
+pdfTeX warning (dest): name{section.3.5} has been referenced but does not exist
+, replaced by a fixed one
+
+pdfTeX warning (dest): name{section.3.4} has been referenced but does not exist
+, replaced by a fixed one
+
+pdfTeX warning (dest): name{section.3.3} has been referenced but does not exist
+, replaced by a fixed one
+
+pdfTeX warning (dest): name{section.3.2} has been referenced but does not exist
+, replaced by a fixed one
+
+pdfTeX warning (dest): name{section.3.1} has been referenced but does not exist
+, replaced by a fixed one
+
+pdfTeX warning (dest): name{chapter.3} has been referenced but does not exist, 
+replaced by a fixed one
+
+{C:/Program Files (x86)/MiKTeX 2.9 02/fonts/enc/dvips/lm/lm-ec.enc}{C:/Program 
+Files (x86)/MiKTeX 2.9 02/fonts/enc/dvips/lm/lm-mathit.enc}{C:/Program Files (x
+86)/MiKTeX 2.9 02/fonts/enc/dvips/lm/lm-rm.enc}{C:/Program Files (x86)/MiKTeX 2
+.9 02/fonts/enc/dvips/lm/lm-mathex.enc}{C:/Program Files (x86)/MiKTeX 2.9 02/fo
+nts/enc/dvips/lm/lm-mathsy.enc}{C:/Program Files (x86)/MiKTeX 2.9 02/fonts/enc/
+dvips/fontname/8r.enc}<C:/Program Files (x86)/MiKTeX 2.9 02/fonts/type1/public/
+lm/lmbx10.pfb><C:/Program Files (x86)/MiKTeX 2.9 02/fonts/type1/public/lm/lmbx1
+2.pfb><C:/Program Files (x86)/MiKTeX 2.9 02/fonts/type1/public/lm/lmcsc10.pfb><
+C:/Program Files (x86)/MiKTeX 2.9 02/fonts/type1/public/lm/lmex10.pfb><C:/Progr
+am Files (x86)/MiKTeX 2.9 02/fonts/type1/public/lm/lmmi10.pfb><C:/Program Files
+ (x86)/MiKTeX 2.9 02/fonts/type1/public/lm/lmmi6.pfb><C:/Program Files (x86)/Mi
+KTeX 2.9 02/fonts/type1/public/lm/lmmi8.pfb><C:/Program Files (x86)/MiKTeX 2.9 
+02/fonts/type1/public/lm/lmr10.pfb><C:/Program Files (x86)/MiKTeX 2.9 02/fonts/
+type1/public/lm/lmr12.pfb><C:/Program Files (x86)/MiKTeX 2.9 02/fonts/type1/pub
+lic/lm/lmr8.pfb><C:/Program Files (x86)/MiKTeX 2.9 02/fonts/type1/public/lm/lmr
+i10.pfb><C:/Program Files (x86)/MiKTeX 2.9 02/fonts/type1/public/lm/lmsy10.pfb>
+<C:/Program Files (x86)/MiKTeX 2.9 02/fonts/type1/public/lm/lmtt10.pfb><C:/Prog
+ram Files (x86)/MiKTeX 2.9 02/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Program F
+iles (x86)/MiKTeX 2.9 02/fonts/type1/urw/helvetic/uhvr8a.pfb>
+Output written on masterproef.pdf (27 pages, 1520446 bytes).
 PDF statistics:
- 384 PDF objects out of 1000 (max. 8388607)
- 80 named destinations out of 1000 (max. 500000)
- 19187 words of extra memory for PDF output out of 20736 (max. 10000000)
+ 421 PDF objects out of 1000 (max. 8388607)
+ 99 named destinations out of 1000 (max. 500000)
+ 19257 words of extra memory for PDF output out of 20736 (max. 10000000)
 
